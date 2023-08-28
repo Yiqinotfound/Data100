@@ -1,3 +1,5 @@
+OK_FORMAT = True
+OK_FORMAT = True
 test = {   'name': 'q6d',
     'points': 2,
     'suites': [   {   'cases': [   {'code': '>>> logistic_predictor_precision >= 0\nTrue', 'hidden': False, 'locked': False},

@@ -1,3 +1,5 @@
+OK_FORMAT = True
+OK_FORMAT = True
 test = {   'name': 'q1c',
     'points': None,
     'suites': [   {   'cases': [   {'code': '>>> analytical_thetas.shape in ((2,), (2, 1))\nTrue', 'hidden': False, 'locked': False},

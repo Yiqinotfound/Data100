@@ -1,3 +1,6 @@
+OK_FORMAT = True
+OK_FORMAT = True
+OK_FORMAT = True
 test = {   'name': 'q3a',
     'points': 5,
     'suites': [   {   'cases': [   {'code': '>>> 0.01 <= train_rmse_cpc <= 0.05\nTrue', 'hidden': False, 'locked': False},

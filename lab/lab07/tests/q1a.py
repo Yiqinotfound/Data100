@@ -1,3 +1,5 @@
+OK_FORMAT = True
+OK_FORMAT = True
 test = {   'name': 'q1a',
     'points': 2,
     'suites': [   {   'cases': [   {'code': '>>> one_hot_X.shape == (244, 12)\nTrue', 'hidden': False, 'locked': False},

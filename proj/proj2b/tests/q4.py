@@ -1,3 +1,5 @@
+OK_FORMAT = True
+OK_FORMAT = True
 test = {   'name': 'q4',
     'points': 3,
     'suites': [   {   'cases': [   {'code': '>>> isinstance(test_predictions, np.ndarray) # must be ndarray of predictions\nTrue', 'hidden': False, 'locked': False},

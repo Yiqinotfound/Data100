@@ -1,3 +1,5 @@
+OK_FORMAT = True
+OK_FORMAT = True
 test = {   'name': 'q3d',
     'points': None,
     'suites': [   {   'cases': [   {'code': '>>> cnf_matrix_norm.shape == (2, 2)\nTrue', 'hidden': False, 'locked': False},

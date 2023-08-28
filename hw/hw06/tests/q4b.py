@@ -1,3 +1,6 @@
+OK_FORMAT = True
+OK_FORMAT = True
+OK_FORMAT = True
 test = {   'name': 'q4b',
     'points': 5,
     'suites': [   {   'cases': [   {'code': '>>> len(models) == 1000\nTrue', 'hidden': False, 'locked': False},

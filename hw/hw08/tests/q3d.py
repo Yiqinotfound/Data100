@@ -1,3 +1,6 @@
+OK_FORMAT = True
+OK_FORMAT = True
+OK_FORMAT = True
 test = {   'name': 'q3d',
     'points': 2,
     'suites': [   {   'cases': [   {'code': '>>> np.isclose(s[0], 5.826584555751593, 1e-3)\nTrue', 'hidden': False, 'locked': False},

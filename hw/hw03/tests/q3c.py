@@ -1,3 +1,6 @@
+OK_FORMAT = True
+OK_FORMAT = True
+OK_FORMAT = True
 test = {   'name': 'q3c',
     'points': 1,
     'suites': [   {   'cases': [   {'code': '>>> all("converted_time" in df.columns for df in tweets.values())\nTrue', 'hidden': False, 'locked': False},

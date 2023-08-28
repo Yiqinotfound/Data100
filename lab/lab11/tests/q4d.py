@@ -1,3 +1,5 @@
+OK_FORMAT = True
+OK_FORMAT = True
 test = {   'name': 'q4d',
     'points': 1,
     'suites': [{'cases': [{'code': '>>> 0.5 < variance_explained_by_1st_pc < 1\nTrue', 'hidden': False, 'locked': False}], 'scored': True, 'setup': '', 'teardown': '', 'type': 'doctest'}]}

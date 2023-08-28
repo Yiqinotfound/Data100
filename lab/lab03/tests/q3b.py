@@ -1,3 +1,5 @@
+OK_FORMAT = True
+OK_FORMAT = True
 test = {   'name': 'q3b',
     'points': None,
     'suites': [   {   'cases': [   {'code': ">>> ('Lat' in calls.columns) and ('Lon' in calls.columns)\nTrue", 'hidden': False, 'locked': False},

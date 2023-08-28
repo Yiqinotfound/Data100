@@ -1,3 +1,6 @@
+OK_FORMAT = True
+OK_FORMAT = True
+OK_FORMAT = True
 test = {   'name': 'q1b',
     'points': 2,
     'suites': [   {   'cases': [   {'code': '>>> clean_taxi.shape == (96445, 9)\nTrue', 'hidden': False, 'locked': False},

@@ -1,3 +1,5 @@
+OK_FORMAT = True
+OK_FORMAT = True
 test = {   'name': 'q3a',
     'points': None,
     'suites': [   {   'cases': [   {'code': '>>> sum(lr.predict(X_test) == Y_test) == 130\nTrue', 'hidden': False, 'locked': False},

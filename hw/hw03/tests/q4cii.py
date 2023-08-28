@@ -1,3 +1,6 @@
+OK_FORMAT = True
+OK_FORMAT = True
+OK_FORMAT = True
 test = {   'name': 'q4cii',
     'points': 1,
     'suites': [   {   'cases': [   {'code': '>>> re.findall(mentions_re, "@someone: this regex stuff is cool") == [\'someone\']\nTrue', 'hidden': False, 'locked': False},

@@ -1,3 +1,5 @@
+OK_FORMAT = True
+OK_FORMAT = True
 test = {   'name': 'q6b',
     'points': None,
     'suites': [   {   'cases': [   {'code': '>>> best_result.shape\n(15, 5)', 'hidden': False, 'locked': False},

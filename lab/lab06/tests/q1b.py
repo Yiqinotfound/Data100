@@ -1,3 +1,5 @@
+OK_FORMAT = True
+OK_FORMAT = True
 test = {   'name': 'q1b',
     'points': None,
     'suites': [   {   'cases': [   {'code': '>>> linear_model(np.arange(1,5), np.arange(1,5)) == 30\nTrue', 'hidden': False, 'locked': False},
