@@ -1,6 +1,4 @@
 OK_FORMAT = True
-OK_FORMAT = True
-OK_FORMAT = True
 test = {   'name': 'q1c',
     'points': 3,
     'suites': [   {   'cases': [   {   'code': '>>> assert set(tweets.keys()) == {"AOC", "Cristiano", "elonmusk"}\n>>> assert all(df.index.name == "id" for df in tweets.values())\n',
@@ -17,8 +15,8 @@ test = {   'name': 'q1c',
                                                "...        'quoted_status']\n"
                                                '>>> all(col in df.columns for df in tweets.values() for col in expected_cols)\n'
                                                'True',
-                                       'hidden': False,
-                                       'locked': False},
+                                       'hidden': True,
+                                       'locked': True},
                                    {'code': '>>> (tweets["AOC"].shape[0] is not None) and (tweets["AOC"].shape[0] >= 30)\nTrue', 'hidden': False, 'locked': False},
                                    {'code': '>>> (tweets["Cristiano"].shape[0] is not None) and (tweets["Cristiano"].shape[0] >= 30)\nTrue', 'hidden': False, 'locked': False},
                                    {'code': '>>> (tweets["elonmusk"].shape[0] is not None) and (tweets["elonmusk"].shape[0] >= 30)\nTrue', 'hidden': False, 'locked': False},
